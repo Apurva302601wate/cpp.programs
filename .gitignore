@@ -1,0 +1,15 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Objects
+*.o
+*.obj
+
+# Code Runner temporary files
+tempCodeRunnerFile*
+
+# Debugging artifacts
+*.dSYM/
+*.pdb
