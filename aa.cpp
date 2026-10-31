@@ -6,4 +6,5 @@ int main()
     int *ptr = &a;
     cout << *ptr << endl;
     return 0;
+    ger eh hc
 }
