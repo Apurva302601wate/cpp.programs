@@ -1,9 +1,12 @@
-//wheter a vhr is number or al[habet]
+//wheter a char is alphabet or not]
 #include<iostream>
 using namespace std;
 int main()
 {
-    char a;
-    cin>>a;
-    if 
+    char ch;
+    cin>>ch;
+    if (ch>='a' && ch<='z' || ch>='A' && ch<='Z')
+    {cout<<"alphabet";}
+    else{cout<<"not an alphabet";}
+    return 0;
 }
